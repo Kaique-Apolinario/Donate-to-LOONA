@@ -10,4 +10,4 @@
 <p>Me, myself and I, Kaique :D</p>
 <br>
 <h2>Credits</h2>
-<p>Credits go to LOONA and Blockberry Creative Company
+<p>Credits go to LOONA and Blockberry. Creative Company
